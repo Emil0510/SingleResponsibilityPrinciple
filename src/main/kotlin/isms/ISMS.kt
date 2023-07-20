@@ -1,0 +1,4 @@
+package isms
+
+interface ISMS {
+}
